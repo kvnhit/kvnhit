@@ -8,9 +8,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvnhit&theme=dark&show_icons=true&locale=en" alt="kvnhit" /></p>
 
+https://img.shields.io/badge/linkedin-blue
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kevein-bezerra-hitzschky" target="blank"><img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/kevein-bezerra-hitzschky" target="blank"><img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn" data-canonical-src="[https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white](https://img.shields.io/badge/linkedin-blue)" style="max-width: 100%;"></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvnhit&label=Profile%20views&color=0e75b6&style=flat" alt="kvnhit" /> </p>
