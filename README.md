@@ -8,7 +8,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvnhit&theme=dark&show_icons=true&locale=en" alt="kvnhit" /></p>
 
-https://img.shields.io/badge/linkedin-blue
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevein-bezerra-hitzschky" target="blank"><img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn" data-canonical-src="[https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white](https://img.shields.io/badge/linkedin-blue)" style="max-width: 100%;"></a>
